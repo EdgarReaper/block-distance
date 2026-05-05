@@ -1,5 +1,5 @@
-![Python](https://img.shields.io/badge/Python-3.13.13-blue)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.8-orange)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10-orange)
 
 # 🐸 Frog Jump - Block Distance
 
