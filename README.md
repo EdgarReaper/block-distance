@@ -59,7 +59,7 @@ The test suite runs 7 cases with known expected results and reports how many pas
 ## 📁 Project Structure
 
 ```
-Block_distance/
+block-distance/
 │
 ├── block_distance.py
 ├── test_block_distance.py
