@@ -55,15 +55,3 @@ python test_block_distance.py
 ```
 
 The test suite runs 7 cases with known expected results and reports how many passed or failed.
-
-## 📁 Project Structure
-
-```
-block-distance/
-│
-├── block_distance.py
-├── test_block_distance.py
-├── report.pdf
-├── README.md
-└── requirements.txt
-```
