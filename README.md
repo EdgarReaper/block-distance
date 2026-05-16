@@ -3,7 +3,7 @@
 
 # 🐸 Frog Jump - Block Distance
 
-A Python solution to the **Frog Jump** problem. Given a sequence of blocks with different heights, two frogs start from the same block and jump in opposite directions — each only able to move to adjacent blocks of equal or greater height. The goal is to find the starting block that maximises the total distance between the two frogs.
+A Python solution to the **Frog Jump** problem. Given a sequence of blocks with different heights, two frogs start from the same block and jump in opposite directions - each only able to move to adjacent blocks of equal or greater height. The goal is to find the starting block that maximises the total distance between the two frogs.
 
 > Individual university project developed for the **Statistics Labs 2** course, focused on algorithm design, testing, and data visualization with Python.
 
